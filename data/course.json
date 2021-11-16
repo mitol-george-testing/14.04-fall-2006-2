@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "28136b11-e626-2b3d-80c4-89640134591f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intermediate Microeconomic Theory",
+  "course_description": "This course focuses on the following topics: basic theory of consumer behavior; production and costs; partial equilibrium analysis of pricing in competitive and monopolistic markets; general equilibrium; welfare; and externalities. It is recommended for students planning to apply to graduate school in economics, accounting, or finance.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.04",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
